@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/Romuloti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romuloti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romuloti&layout=compact&langs_count=16&theme=dark"/>
 </div>
   <div style="display: inline_block">
